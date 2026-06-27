@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-26T03:05:42Z",
+  "generated_at": "2026-06-27T03:05:49Z",
   "sections": {
     "weekly": "lesson/2026-W26.md"
   },
@@ -30,6 +30,11 @@
       "date": "2026-06-26",
       "file": "lesson/2026-06-26.md",
       "title": "Сегодня, 2026-06-26"
+    },
+    {
+      "date": "2026-06-27",
+      "file": "lesson/2026-06-27.md",
+      "title": "Сегодня, 2026-06-27"
     },
     {
       "date": "2026-W26",
