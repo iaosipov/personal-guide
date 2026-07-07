@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-06T03:03:38Z",
+  "generated_at": "2026-07-07T02:20:45Z",
   "sections": {
     "weekly": "guide/2026-W28.md"
   },
@@ -15,6 +15,11 @@
       "date": "2026-07-06",
       "file": "guide/2026-07-06.md",
       "title": "Сегодня, 2026-07-06"
+    },
+    {
+      "date": "2026-07-07",
+      "file": "guide/2026-07-07.md",
+      "title": "Сегодня, 2026-07-07"
     },
     {
       "date": "2026-W28",
